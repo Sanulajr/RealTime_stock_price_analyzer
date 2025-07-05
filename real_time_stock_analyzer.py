@@ -7,7 +7,7 @@ import time
 # Polygon.io WebSocket URL (example)
 POLYGON_WS = "wss://socket.polygon.io/stocks"
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "qYz45UAKUFYKnYNubhg3006dnYoCNz9x"
 
 # Sliding window size (e.g. 60 seconds)
 WINDOW_SIZE = 60
