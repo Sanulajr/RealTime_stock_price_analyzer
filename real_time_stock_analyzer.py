@@ -4,7 +4,7 @@ import json
 from collections import deque
 import time
 
-# Polygon.io WebSocket URL (example)
+# Polygon.io WebSocket URL 
 POLYGON_WS = "wss://socket.polygon.io/stocks"
 
 API_KEY = "qYz45UAKUFYKnYNubhg3006dnYoCNz9x"
